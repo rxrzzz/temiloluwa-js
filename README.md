@@ -9,9 +9,3 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-- 🔭 I’m currently working on "Misc", an e-commerce platform to buy Dicebear Avatars.
-- 🌱 I’m currently learning Typescript and Tailwind CSS.
-- 📝 I write articles on [https://hackernoon.com/u/temiloluwa](https://hackernoon.com/u/temiloluwa)
-
-- 📫 You can reach me through my mail: **adeleyetemiloluwa674@gmail.com**
-
