@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temiloluwa-js&label=Profile%20views&color=0e75b6&style=flat" alt="temiloluwa-js" /> </p>
 
-- 🔭 I’m currently working on [66ch, a full clone of Medium.](66ch.vercel.app)
+- 🔭 I’m currently working on <a href="https://66ch.vercel.app"> 66ch, a full clone of Medium.</a>
 
 - 🌱 I’m currently learning **Chakra UI.**
 
