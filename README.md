@@ -1,9 +1,5 @@
 * ✉️  You can contact me at [adeleyetemiloluwa674@gmail.com](mailto:adeleyetemiloluwa674@gmail.com)
-* 🚀  I'm currently working on [66ch, a blog app built with React and Firebase](http://66ch.vercel.app)
-* 🧠  Currently learning ExpressJs and MongoDB
-* 🤝  I'm open to collaborating on frontend React projects.
-
-
+* 🚀  I'm currently working on Shifuku Hotel, a fullstack hotel application.
 
 
 ##Socials
